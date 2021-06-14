@@ -83,10 +83,7 @@ header .textos-header{
 }
 
 h1{
-    padding: 0px 0 20px 0;
     font-size: 3rem;
-    line-height: 1.3em;
-    max-width: 1000px;
 }
 
 h3{
