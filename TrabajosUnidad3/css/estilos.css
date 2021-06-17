@@ -91,6 +91,10 @@ header .textos-header{
 	margin:auto;
 }
 
+video{
+    padding: 10px 0 60px 0;
+}
+
 .row{
 	display: flex;
 	flex-wrap: wrap;
@@ -185,6 +189,7 @@ iframe{
     height: 180vh;
     border: none;
     text-underline-position: above; 
+    padding: 10px 0 60px 0;
 }
 
 @media screen and (max-width:900px){
