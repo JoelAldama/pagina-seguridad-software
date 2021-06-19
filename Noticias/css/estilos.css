@@ -33,8 +33,7 @@ header {
     background: #6190E8;  /* fallback for old browsers */
     background: -webkit-linear-gradient(to right, #3ed0daa9, #2e2bc9a1), url(../img/Portada.gif);  /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
     background: linear-gradient(to right, #3ed0daa9, #2e2bc9a1), url(../img/Portada.gif);  /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
- 
-    background-size: cover;
+    background-size: auto;
     background-attachment: fixed;
     position: relative;
 }
